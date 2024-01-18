@@ -1,0 +1,15 @@
+*.jpg
+**/*.jpg
+
+.*~
+*~
+**/*~
+
+**/bin
+**/output
+
+secrets
+
+sample
+
+local.env
